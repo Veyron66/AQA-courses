@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e938a8cf-c04e-4972-9755-9cb656c4b220" name="Default Changelist" comment="">
+    <list default="true" id="e938a8cf-c04e-4972-9755-9cb656c4b220" name="Default Changelist" comment="My second commit">
       <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/bin/eu.senla.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/bin/out/production/eu.senla/eu.senla.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/eu.senla.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/src/eu.senla.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/src/out/production/eu.senla/eu.senla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gitignore" afterDir="false" />
     </list>
@@ -124,6 +118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611140454439</updated>
     </task>
+    <task id="LOCAL-00001" summary="My second commit">
+      <created>1611675406208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611675406208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,5 +139,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My second commit" />
   </component>
 </project>
