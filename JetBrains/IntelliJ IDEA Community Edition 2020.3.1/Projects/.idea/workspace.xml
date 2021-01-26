@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e938a8cf-c04e-4972-9755-9cb656c4b220" name="Default Changelist" comment="My second commit">
-      <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/bin/eu.senla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/bin/out/production/eu.senla/eu.senla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/eu.senla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/src/eu.senla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Javadev/ws/eu.senla/src/out/production/eu.senla/eu.senla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="e938a8cf-c04e-4972-9755-9cb656c4b220" name="Default Changelist" comment="Commit Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611675406208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Project">
+      <created>1611676048021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611676048021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My second commit" />
+    <MESSAGE value="Commit Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Project" />
   </component>
 </project>
