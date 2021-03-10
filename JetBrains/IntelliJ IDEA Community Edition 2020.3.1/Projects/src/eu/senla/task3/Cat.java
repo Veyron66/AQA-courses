@@ -1,8 +1,8 @@
 package eu.senla.task3;
 
 public class Cat {
-    String name = "Mersik";
-    int age = 5;
+    private String name = "Mersik";
+    private int age = 5;
     public void Cat1() {
 
         int i = 0;
@@ -50,7 +50,8 @@ public class Cat {
         }
 
 
-    }
+
+}
 
 
 

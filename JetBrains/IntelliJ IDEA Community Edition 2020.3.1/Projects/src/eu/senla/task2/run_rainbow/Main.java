@@ -6,6 +6,7 @@ public class Main {
         Rainbow rainbow = new Rainbow();
         rainbow.choice();
 
+
         }
 
 
