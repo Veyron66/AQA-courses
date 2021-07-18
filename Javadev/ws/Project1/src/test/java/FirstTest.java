@@ -67,6 +67,7 @@ public class FirstTest {
         // Выход из системы
         driver.findElement(By.xpath("//a[@data-test='sign-out']")).click();
 
+
         Thread.sleep(5000);
         driver.close();
         driver.quit();
