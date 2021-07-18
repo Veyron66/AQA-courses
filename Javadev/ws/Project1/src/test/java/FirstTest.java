@@ -31,7 +31,7 @@ public class FirstTest {
         driver.findElement(By.id("address_secondary_address")).sendKeys("Kabiaka 21a-62");
         driver.findElement(By.id("address_city")).sendKeys("Grodno");
         driver.findElement(By.id("address_state")).click();
-        driver.findElement(By.xpath("//option[@value='CA']")).click();
+        driver.findElement(By.xpath("//option[@value='ID']")).click();
         driver.findElement(By.id("address_zip_code")).sendKeys("230000");
         driver.findElement(By.id("address_country_us")).click();
         driver.findElement(By.id("address_birthday")).sendKeys("09.05.1986");
@@ -53,15 +53,20 @@ public class FirstTest {
         driver.findElement(By.id("address_secondary_address")).sendKeys("Slater str. 11603");
         driver.findElement(By.id("address_city")).clear();
         driver.findElement(By.id("address_city")).sendKeys("Los-angeles");
+        driver.findElement(By.xpath("//option[@value='CA']")).click();
         driver.findElement(By.id("address_zip_code")).clear();
         driver.findElement(By.id("address_zip_code")).sendKeys("CA 90012");
         driver.findElement(By.id("address_phone")).clear();
         driver.findElement(By.id("address_phone")).sendKeys("+1213 9999999");
+        driver.findElement(By.id("address_note")).sendKeys("Редактирование");
         driver.findElement(By.xpath("//input[@data-disable-with='Update Address']")).click();
         // Удаление адреса
         driver.findElement(By.xpath("//a[@data-test='list']")).click();
         driver.findElement(By.xpath("//a[contains(text(),'Destroy')]")).click();
         driver.switchTo().alert().accept();
+        // Выход из системы
+        driver.findElement(By.xpath("//a[@data-test='sign-out']")).click();
+
 
 
 
